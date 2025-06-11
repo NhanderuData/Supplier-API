@@ -10,7 +10,7 @@ Maven
 RESTful API  
 
 
-
+# Banco de dados  
 Tenha un banco de dados desse jeito e configura a conexão  
 dele em dependecias no projeto pra funcionar localmente  
 
@@ -23,7 +23,7 @@ CREATE TABLE suppliers (
     address VARCHAR(500),  
     registration_date TIMESTAMP  
 );  
-
+# Json  
 O Arquivo Json tambem deve estar nesse formato  
 
 {  
