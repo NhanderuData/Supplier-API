@@ -34,3 +34,21 @@ O Arquivo Json tambem deve estar nesse formato
   "address": "Rua do Zé, 123",  
   "registrationDate": "2025-06-10T18:43:37.156703"  
 }  
+# Estrutura do projeto  
+
+main/  
+│   ├── java/  
+│   │   └── com/  
+│   │       └── example/  
+│   │           └── API_Estoq/  
+│   │               ├── controller/  
+│   │               │   └── SupplierController.java  
+│   │               ├── model/  
+│   │               │   └── Supplier.java  
+│   │               ├── repository/  
+│   │               │   └── SupplierRepository.java  
+│   │               ├── service/  
+│   │               │   └── SupplierService.java  
+│   │               └── ApiEstoqApplication.java  
+
+
